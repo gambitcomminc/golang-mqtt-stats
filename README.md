@@ -12,6 +12,8 @@ It is the command-line interface equivalent of https://github.com/gambitcomminc/
 
 * Follow instructions for Eclipse Paho Go library https://github.com/eclipse/paho.mqtt.golang
 
+* go get github.com/pborman/getopt/v2
+
 * go build golang-mqtt-stats.go
 
 ## Usage
