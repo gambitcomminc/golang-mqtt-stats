@@ -14,6 +14,8 @@ It is the command-line interface equivalent of https://github.com/gambitcomminc/
 
 * go build golang-mqtt-stats.go
 
+## Usage
+
 This shows with 10 messages / second from the MIMIC MQTT Simulator Bosch simulation
 
      % ./golang-mqtt-stats --host 192.9.192.247 --topic '#'
