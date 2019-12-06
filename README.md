@@ -10,7 +10,7 @@ It is the command-line interface equivalent of https://github.com/gambitcomminc/
 
 ## Installation / Requirements
 
-* To install Gin package, you need to install Go and set your Go workspace first.
+* To install this program, you need to install Go and set your Go workspace first.
 
 * Follow instructions for Eclipse Paho Go library https://github.com/eclipse/paho.mqtt.golang
 
